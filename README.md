@@ -11,12 +11,12 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 |------|---------------------------------------------|--------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/alexlauris|
 | 1    | Github Profile Page Updated                 | https://alexlauris.github.io |
-| 1    | Commit and Push Change from Command Line    | https://github.com/alexlauris/alexlauris.github.io/commit/6521dc650d31e87a498640e494302738ce94895b |
-| 1    | Create a New Branch                           | https://github.com/`username`/`repo-name`/tree/`new-branch-name` |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml` |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
+| 1    | Commit and Push Change from Command Line    | https://github.com/alexlauris/ppchem/commit/f9c407ee501b5da7502935a9cc37ab5630a7e6fe |
+| 1    | Create a New Branch                         | https://github.com/alexlauris/ppchem/tree/new-branch |
+| 1    | Create a conda environment                  | https://github.com/alexlauris/ppchem/blob/new-branch/env.yml |
+| 1    | Fork a Repo                                 | https://github.com/alexlauris/practical-programming-in-chemistry-milestones |
+| 1    | (Optional) Make a Pull Request              | https://github.com/alexlauris/ppchem/pull/1 |
+| 2    | (Optional) Review a Pull Request            | https://github.com/alexlauris/ppchem/pull/1#pullrequestreview-1909044000 |
 
 **More milestones will be added throughout the course.**
 
@@ -61,5 +61,3 @@ git push origin main
 ```
 
 `origin` refers to your forked repository. So, you will push the changes to your own main branch.
-
-
